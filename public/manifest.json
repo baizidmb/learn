@@ -1,0 +1,29 @@
+{
+  "short_name": "Marissa RO⇄EN",
+  "name": "Marissa RO⇄EN Restaurant & Kitchen Training",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#141210",
+  "theme_color": "#141210",
+  "display": "standalone",
+  "orientation": "portrait"
+}
